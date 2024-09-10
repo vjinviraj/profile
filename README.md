@@ -1,6 +1,6 @@
 # profile
 # 💫 About Me:
-I'm currently working on learning React.js framework for frontend development and also delving into the field of ML using rapidminer technology
+I'm currently working on learning React.js framework for frontend development and also delving into the field of ML using Python.
 
 
 ## 🌐 Socials:
